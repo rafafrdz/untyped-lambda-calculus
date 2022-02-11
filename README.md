@@ -1,4 +1,4 @@
-# Lambda Calculus Implementation
+# Untyped Lambda Calculus Implementation
 
 ### **Theory of programming language**
 
