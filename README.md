@@ -21,11 +21,13 @@ Code is located into `src/main/scala/mr/tlp/lambdaCalculus`
 
 **Code:** `src/main/scala/mf/tlp/lambdaCalculus/adt/Exp.scala`
 
-[https://gist.github.com/rafafrdz/4b8f59a5b6398c050b936b24f5c7811b](https://gist.github.com/rafafrdz/4b8f59a5b6398c050b936b24f5c7811b)
+<script src="https://gist.github.com/rafafrdz/4b8f59a5b6398c050b936b24f5c7811b.js"></script>
 
 where show method is
 
-[https://gist.github.com/rafafrdz/b34bfe4ad3caca8904451234f71aab89](https://gist.github.com/rafafrdz/b34bfe4ad3caca8904451234f71aab89)
+<script src="https://gist.github.com/rafafrdz/b34bfe4ad3caca8904451234f71aab89.js"></script>
+
+
 
 ## Lambda calculus rules
 
@@ -33,19 +35,19 @@ where show method is
 
 ### Capture Avoiding Substitution (Exercise 14 and 15)
 
-[https://gist.github.com/rafafrdz/2ec14b7e89beb1b214ab681b203db3c7](https://gist.github.com/rafafrdz/2ec14b7e89beb1b214ab681b203db3c7)
+<script src="https://gist.github.com/rafafrdz/2ec14b7e89beb1b214ab681b203db3c7.js"></script>
 
 Where the auxiliar methods are the following (`freeVariable` method **Exercise 14**):
 
-[https://gist.github.com/rafafrdz/db578453b66657d70c884112cf402ff4](https://gist.github.com/rafafrdz/db578453b66657d70c884112cf402ff4)
+<script src="https://gist.github.com/rafafrdz/db578453b66657d70c884112cf402ff4.js"></script>
 
 ### Alpha Conversion or Alpha Reduction
 
-[https://gist.github.com/rafafrdz/29768f5da9a54bca123c3cc587f33999](https://gist.github.com/rafafrdz/29768f5da9a54bca123c3cc587f33999)
+<script src="https://gist.github.com/rafafrdz/29768f5da9a54bca123c3cc587f33999.js"></script>
 
 ### Beta Conversion or Beta Reduction (Exercise 16 and 17)
 
-[https://gist.github.com/rafafrdz/665f918d307e2204a96285d551ba7bcc](https://gist.github.com/rafafrdz/665f918d307e2204a96285d551ba7bcc)
+<script src="https://gist.github.com/rafafrdz/665f918d307e2204a96285d551ba7bcc.js"></script>
 
 # Exercise
 
@@ -55,16 +57,17 @@ We can observe that there is a trait named Exercise where is allocated some comm
 
 **Code:** `src/main/scala/mf/tlp/lambdaCalculus/exercises/Booleans.scala`
 
-[https://gist.github.com/rafafrdz/fd64f649200c72b9d30ca54b8d374967](https://gist.github.com/rafafrdz/fd64f649200c72b9d30ca54b8d374967)
+<script src="https://gist.github.com/rafafrdz/fd64f649200c72b9d30ca54b8d374967.js"></script>
 
 ## Tuples
 
 **Code:** `src/main/scala/mf/tlp/lambdaCalculus/exercises/Tuples.scala`
 
-[https://gist.github.com/rafafrdz/b624135e043aad45e15333129db78a94](https://gist.github.com/rafafrdz/b624135e043aad45e15333129db78a94)
+<script src="https://gist.github.com/rafafrdz/b624135e043aad45e15333129db78a94.js"></script>
 
 ## Church Numerals
 
 **Code:** `src/main/scala/mf/tlp/lambdaCalculus/exercises/Numerals.scala`
 
-[https://gist.github.com/rafafrdz/64273ede9f8b8a89792ef65749687714](https://gist.github.com/rafafrdz/64273ede9f8b8a89792ef65749687714)
+<script src="https://gist.github.com/rafafrdz/64273ede9f8b8a89792ef65749687714.js"></script>
+
