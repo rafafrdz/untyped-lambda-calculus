@@ -8,7 +8,7 @@
 
 **Description**. To implement untyped lambda calculus in Scala
 
-**Exercise/paper.** [Untyped Lambda Calculus](https://github.com/rafafrdz/untyped-lambda-calculus/blob/master/paper/lambda_ut.pdf)
+**Exercise/paper.** [Untyped Lambda Calculus](https://github.com/rafafrdz/untyped-lambda-calculus/blob/master/paper/lambda_ut.pdf) and its [Solutions](https://github.com/rafafrdz/untyped-lambda-calculus/blob/master/paper/lambda-calculus-solutions.pdf)
 
 # Where are the code?
 
